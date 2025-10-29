@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">dane do paszpostu</string>
+    <string name="numer">numer</string>
+    <string name="nazwisko">nazwisko</string>
+    <string name="imie">imie</string>
+</resources>
